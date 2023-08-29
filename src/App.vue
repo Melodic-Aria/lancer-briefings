@@ -90,67 +90,67 @@ export default {
   data() {
     return {
       "mission_slug": "001",
-      "current_md": "",
-      "events": "",
+      "current_md": "001",
+      "events": "001",
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "The Drop",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Taco Tuesday",
+          "alias": "Paulie Burkin",
+          "code": "Burkin.Paulie:62c69927-1423-4756-849a-4beffee08b7c//NDL-C-ALPHA-WILL",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "frame": "Chomolungma",
+          "mech": "Unleaded Florescence"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Rough Rider",
+          "alias": "Teddy R",
+          "code": "R.Teddy:662d36e2-6d9e-460e-aa6c-d3df96c3647e//NDL-C-BLUE-MANTLE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Hey There"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "Decaf",
+          "alias": "Tomoko Viscarra",
+          "code": "Viscarra.Tomoko:7e0db6ec-83e9-41db-b3c0-632e3425736b//NDL-C-STEEL-GLYPH ",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "frame": "Sagarmatha",
+          "mech": "AL Cappuccino"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Ember",
+          "alias": "Lesley Cria",
+          "code": "Cria.Lesly:3bda0bf0-652d-429b-b490-c1c43f0ad9f0//NDL-C-NULL-SEA ",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "Lesser Evil"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "callsign": "Angel",
+          "alias": 'Yuan Qing Cliche',
+          "code": "Cliche.Yuan.Qing:5302fc8d-e024-4671-a9b8-00c0e7cd255f//NDL-C-SECOND-HINDSIGHT ",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "Faster Than Walking"
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "planet": "Cressidium",
+        "year": "5016u",
+        "system": "Edinburgh",
+        "gate": "Red Pike",
+        "ring": "Cascade-Line",
+        "headerTitle": "Union",
+        "headerSubtitle": "Naval Department",
+        "subheaderTitle": "Rapid Response",
+        "subheaderSubtitle": "27th Squad",
       },
       "options":{
         "eventsMarkdownPerMission": true
