@@ -1,0 +1,1 @@
+Joined a far-field team out of an interest of alien worlds and desiring a sense of purpose. She helped clear wildlife and vegetation for future colonies while finding an interest in fixing machinery and tinkering during her time in her FFT before becoming bored with the career, leaving to seek out a more interesting line of work.
