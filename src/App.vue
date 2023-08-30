@@ -130,7 +130,7 @@ export default {
           "code": "Cria.Lesly:3bda0bf0-652d-429b-b490-c1c43f0ad9f0//NDL-C-NULL-SEA ",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Lesser Evil"
+          "mech": "The Little-Death"
         },
         {
           "callsign": "Angel",
