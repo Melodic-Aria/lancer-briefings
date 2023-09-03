@@ -114,7 +114,7 @@ export default {
           "code": "R.Teddy:662d36e2-6d9e-460e-aa6c-d3df96c3647e//NDL-C-BLUE-MANTLE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Hey There"
+          "mech": "Manifest Destiny"
         },
         {
           "callsign": "Decaf",
