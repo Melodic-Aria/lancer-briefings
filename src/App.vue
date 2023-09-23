@@ -89,13 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
-      "current_md": "001",
-      "events": "001",
+      "mission_slug": "002",
+      "current_md": "002",
+      "events": "002",
       "missions": [
         {
-          "slug": "001",
-          "name": "The Drop",
+          "slug": "002",
+          "name": "Daybreak",
           "status": "start"
         },
       ],
@@ -104,41 +104,41 @@ export default {
           "callsign": "Taco Tuesday",
           "alias": "Paulie Burkin",
           "code": "Burkin.Paulie:62c69927-1423-4756-849a-4beffee08b7c//NDL-C-ALPHA-WILL",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Unleaded Florescence"
+          "corpro": "SSC",
+          "frame": "Swallowtail",
+          "mech": "Everything Is Fine"
         },
         {
           "callsign": "Rough Rider",
           "alias": "Teddy R",
           "code": "R.Teddy:662d36e2-6d9e-460e-aa6c-d3df96c3647e//NDL-C-BLUE-MANTLE",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Manifest Destiny"
+          "corpro": "IPS-N",
+          "frame": "Caliban",
+          "mech": "Manifested Destiny"
         },
         {
           "callsign": "Decaf",
           "alias": "Tomoko Viscarra",
           "code": "Viscarra.Tomoko:7e0db6ec-83e9-41db-b3c0-632e3425736b//NDL-C-STEEL-GLYPH ",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "AL Cappuccino"
+          "corpro": "IPS-N",
+          "frame": "Blackbeard",
+          "mech": "Notroious C.O.F.F.E.E"
         },
         {
           "callsign": "Ember",
           "alias": "Lesley Cria",
           "code": "Cria.Lesly:3bda0bf0-652d-429b-b490-c1c43f0ad9f0//NDL-C-NULL-SEA ",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "The Little-Death"
+          "corpro": "Harrison Armory",
+          "frame": "Genghis Worldkiller MK1",
+          "mech": "I'm Too Stupid to Know Better"
         },
         {
           "callsign": "Angel",
           "alias": 'Yuan Qing Cliche',
           "code": "Cliche.Yuan.Qing:5302fc8d-e024-4671-a9b8-00c0e7cd255f//NDL-C-SECOND-HINDSIGHT ",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Faster Than Walking"
+          "corpro": "SSC",
+          "frame": "Monarch",
+          "mech": "Faster Than Crawling"
         },
       ],
       "header": {
