@@ -122,7 +122,7 @@ export default {
           "code": "Viscarra.Tomoko:7e0db6ec-83e9-41db-b3c0-632e3425736b//NDL-C-STEEL-GLYPH ",
           "corpro": "IPS-N",
           "frame": "Blackbeard",
-          "mech": "Notroious C.O.F.F.E.E"
+          "mech": "Notorious C.O.F.F.E.E"
         },
         {
           "callsign": "Ember",
